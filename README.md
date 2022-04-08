@@ -23,7 +23,8 @@
   <img align="center" alt="rmcstt-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="rmcstt-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="rmcstt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="rmcstt-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/MySQL/MySQL-original.svg">
+
+<img align="center" alt="jp-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
 
   
   
