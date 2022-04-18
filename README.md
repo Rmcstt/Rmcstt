@@ -9,7 +9,7 @@
 
 ## I'm Renato, the developer!!!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF7A00&lines=I'm+Renato,+the+developer+!!!)](https://git.io/typing-svg)
+
 
 ## -_👽 i have a dream..._ 
 
