@@ -5,7 +5,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72121&lines=We+are+children+of+the+wild)](https://git.io/typing-svg)
+<div>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72121&lines=We+are+children+of+the+wild)](https://git.io/typing-svg)</div>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF7A00&lines=I'm+Renato,+the+developer+!!!)](https://git.io/typing-svg)
 
