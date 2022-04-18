@@ -11,7 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF7A00&lines=I'm+Renato,+the+developer+!!!)](https://git.io/typing-svg)
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72121&lines=steal+the+show+!!!)](https://git.io/typing-svg)
 
 <div>
   <a href="#">
