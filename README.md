@@ -1,5 +1,5 @@
 
-  <img align="center" height="500em" alt="rmcstt-gif" src="https://github.com/Rmcstt/Rmcstt/blob/main/IMG_1077.PNG?raw=true">
+  <img align="right" height="500em" alt="rmcstt-gif" src="https://github.com/Rmcstt/Rmcstt/blob/main/IMG_1077.PNG?raw=true">
 
  
 
