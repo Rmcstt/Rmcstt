@@ -1,4 +1,5 @@
-<img align="center" height="500em" alt="rmcstt-gif" src="https://github.com/Rmcstt/Rmcstt/blob/main/IMG_1077.PNG?raw=true">
+<div> 
+ <img align="center" height="500em" alt="rmcstt-gif" src="https://github.com/Rmcstt/Rmcstt/blob/main/IMG_1077.PNG?raw=true">
 
  
 
@@ -11,6 +12,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF7A00&lines=I'm+Renato,+the+developer+!!!)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72121&lines=steal+the+show+!!!)](https://git.io/typing-svg)
+ 
+ </div>
 
 <div>
   <a href="#">
