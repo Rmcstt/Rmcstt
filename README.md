@@ -35,7 +35,7 @@
   
   <a href = "mailto:renato.mota.costa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      
-  <a href="https://www.linkedin.com/in/renato-mota-costa-31890a227"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://imgur.com/cnGXYrN.png"></a>
+  <a href="https://www.linkedin.com/in/renato-mota-costa-🇧🇷-31890a227/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://imgur.com/cnGXYrN.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </div>
  
