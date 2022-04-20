@@ -1,7 +1,7 @@
-<div> 
- <img align="center" height="500em" alt="rmcstt-gif" src="https://github.com/Rmcstt/Rmcstt/blob/main/IMG_1077.PNG?raw=true">
 
  
+<img align="center" height="900em" alt="rmcstt-gif" src="https://github.com/Rmcstt/Rmcstt/blob/main/IMG_1077.PNG?raw=true">
+
 
 
 
@@ -13,7 +13,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72121&lines=steal+the+show+!!!)](https://git.io/typing-svg)
  
- </div>
+
 
 <div>
   <a href="#">
@@ -21,7 +21,7 @@
   <img align="right"height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmcstt&layout=compact&langs_count=16&theme=great-gatsby"/>
     
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rmcstt&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
+   
 </div>
   
    ## Technologies...
@@ -32,7 +32,7 @@
   <img align="center" alt="rmcstt-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="rmcstt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-<img align="center" alt="jp-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+<img  alt="jp-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
 
   
   
@@ -40,7 +40,7 @@
   
 ##
   ## contacts
-<div>
+ <div>
   
   
   <a href = "mailto:renato.mota.costa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
