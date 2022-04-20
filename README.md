@@ -1,17 +1,7 @@
 
- 
-<img align="center" alt="rmcstt-gif" src="https://github.com/Rmcstt/Rmcstt/blob/main/IMG_1077.PNG?raw=true">
-
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72121&lines=We+are+children+of+the+wild)](https://git.io/typing-svg)
-
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF7A00&lines=I'm+Renato,+the+developer+!!!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72121&lines=steal+the+show+!!!)](https://git.io/typing-svg)
+
  
 
 
@@ -35,7 +25,7 @@
 <img  alt="jp-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
 
   
-  
+  <img height="250em" align="right" alt="rmcstt-gif" src="https://github.com/Rmcstt/Rmcstt/blob/main/IMG_1077.PNG?raw=true">
 </div>
   
 ##
@@ -46,3 +36,4 @@
   <a href = "mailto:renato.mota.costa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renato-mota-costa-31890a227" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+ 
