@@ -23,8 +23,8 @@
   <img align="center" alt="rmcstt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 <img  align="center" alt="jp-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
- <img  align="center" alt="python" height="30" width="40" src="https://github.com/Rmcstt/Rmcstt/blob/cc79e95b7316d3d2c1320d3cf092d76bdc4170f7/1024px-Python-logo-notext.svg.png">
- <img  align="center" alt="nodeJS" height="30" width="40" src="https://github.com/Rmcstt/Rmcstt/blob/43d2ddbfba5654bf107c25cf694790c829030158/node-js-1174925.webp">
+ <img  align="center" alt="python" height="30" width="35" src="https://github.com/Rmcstt/Rmcstt/blob/cc79e95b7316d3d2c1320d3cf092d76bdc4170f7/1024px-Python-logo-notext.svg.png">
+ <img  align="center" alt="nodeJS" height="30" width="35" src="https://github.com/Rmcstt/Rmcstt/blob/43d2ddbfba5654bf107c25cf694790c829030158/node-js-1174925.webp">
 
   
   <img height="350em" align="right" alt="rmcstt-gif" src="https://github.com/Rmcstt/Rmcstt/blob/main/IMG_1077.PNG?raw=true">
