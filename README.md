@@ -3,7 +3,7 @@
 
 
 ## Play my first game !!!   
-🕹https://rmcstt.github.io/project-game-1/🕹 
+🕹https://rmcstt.github.io/project-game-1/
 
 ##
  
