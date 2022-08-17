@@ -8,7 +8,7 @@
 
 
 <div>
-<div align="center">
+<div align="line">
   
   <img height="195m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rmcstt&layout=compact&langs_count=7&theme=dark"/>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rmcstt&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
    
