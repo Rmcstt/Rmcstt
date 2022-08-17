@@ -1,10 +1,4 @@
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=6000&color=F7862E&lines=Welcome!!!)](https://git.io/typing-svg)
-
- <img height="350em" align="center" alt="rmcstt-gif" src="renato.gif"><img border-top="10em" height="350em" align="right" alt="rmcstt-gif" src="https://github.com/Rmcstt/Rmcstt/blob/main/IMG_1077.PNG?raw=true">
- 
-</div>
+## Ola, sou o Renato ⚡︎
 
 ##
 🕹https://rmcstt.github.io/project-game-1/
@@ -14,11 +8,9 @@
 
 
 <div>
-  <a href="#">
-  <img align="center"height="180em" src="https://github-readme-stats.vercel.app/api?username=Rmcstt&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="center"height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmcstt&layout=compact&langs_count=16&theme=great-gatsby"/>
-    
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rmcstt&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<div align="left">
+  
+  <img height="195m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rmcstt&layout=compact&langs_count=7&theme=dark"/>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rmcstt&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
    
 </div>
   
